@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @kbdering
 - 👀 I’m interested in computer graphics and rendering
 - 🌱 I’m currently learning vulkan and opengl api
-- 💞️ I’m looking to collaborate on gane engine
+- 💞️ I’m looking to collaborate on game engine
 - 📫 How to reach me : kb.dering@gmail.com
 
 <!---
