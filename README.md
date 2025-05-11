@@ -1,8 +1,7 @@
 - 👋 Hi, I’m @kbdering
-- 👀 I’m interested in computer graphics and rendering
-- 🌱 I’m currently learning vulkan and opengl api
-- 💞️ I’m looking to collaborate on game engine
 - 📫 How to reach me : kb.dering@gmail.com
+- I'm doing some Perfromance Testing stuff
+
 
 <!---
 kbdering/kbdering is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
