@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @kbdering
 - 📫 How to reach me : kb.dering@gmail.com
-- I'm doing some Perfromance Testing stuff
+- I'm doing some Performance Testing stuff
 
 
 <!---
